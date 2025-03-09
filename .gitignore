@@ -1,0 +1,12 @@
+captcha_model/
+captchas2/
+correct/
+incorrect_segment/
+labeled/
+model_fail/
+unlabeled/
+valid_model/
+*.keras
+*.h5
+.venv/
+__pycache__/

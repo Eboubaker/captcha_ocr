@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "binarize",
+        "cmap",
+        "datagen",
+        "figsize",
+        "imread",
+        "imshow",
+        "ndarray",
+        "thresholding"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
